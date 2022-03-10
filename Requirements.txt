@@ -3,7 +3,7 @@
 Bugs: 
 
 # 1. Like button not working.
-2. Post er konay profile photo ta user er hobe. Post er na.
+# 2. Post er konay profile photo ta user er hobe. Post er na.
 # 3. Image er j caption ache seta jodi 30 er beshi hoy tahole read more a dekhabe. R 30 er kom hole full caption dekhabe. Kintu ekhane 'text' lekha ta dekhacche. Seta thik kore caption ante hbe.
 4. Comment er moddhe k comment korche r ki comment korche duitai undefined ache. Ai duitai fix korte hobe. 
 # 5. Uporer corner a j "eye" icon ta ache ota te click korle report kora "warning sign die report korte hoy" post gula dekhanor kotha. Kintu sekhane sob post dekhacche. Eta fix korte hobe.
